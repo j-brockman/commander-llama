@@ -1,6 +1,6 @@
-![avatar](/assets/commander_llama.pnd)
+<img src="assets/commander_llama.png" alt="Project Logo" width="400" height="400">
 
-# commander-llama
+# Description
 A command line AI assistant for Linux utilities
 
 Sometimes you need help putting together a Linux command line to accomplish something.  Of course you can just Google it, or you could type a question into an AI web page, but since you are already staring at a terminal trying to think of the command, wouldn't it be more convenient to just type out what you need the command to do and get an answer right there?
