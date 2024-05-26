@@ -1,3 +1,5 @@
+![avatar](/assets/commander_llama.pnd)
+
 # commander-llama
 A command line AI assistant for Linux utilities
 
