@@ -7,7 +7,7 @@ Sometimes you need help putting together a Linux command line to accomplish some
 This utility will attempt to do that, but be advised that the answers come from an LLM, and therefore you are responsible for verifying the commands before executing them.  The answers are merely tokens predicted by an LLM and they may be what you need, or if you are not careful, running the command could do harm to your data or your system.  The cmdr_llama.py script only prints the command and does not execute it.  It is up to you to decide whether to run the command that is printed and I am not responsible for the consequences of that decision. 
 YOU HAVE BEEN WARNED.
 
-In my case, this more often than not, just reminds me how to do something I already knew and forgot.  If I don't immediately recognize the command, I do a web search to verify what exactly it does.
+In my case, this more often than not, just reminds me how to do something I already knew and forgot.  If I don't immediately recognize the command, I do a web search to verify exactly what it does.
 
 For example:
 ```bash
