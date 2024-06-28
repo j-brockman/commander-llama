@@ -21,6 +21,9 @@ date +%s
 
 $ cmdr_llama subtract one number from another
 `bc -l <<< "10-4"`
+
+$ cmdr_llama show the block device id of /dev/sdb
+blkid /dev/sdb
 ```
 
 ## Installation Requirements
