@@ -22,8 +22,10 @@ date +%s
 $ cmdr_llama subtract one number from another
 `bc -l <<< "10-4"`
 
-$ cmdr_llama show the block device id of /dev/sdb
-blkid /dev/sdb
+$ cmdr_llama --verbose show the block device id for /dev/sdb
+blkid /dev/sdb -o device
+
+(Note: The `blkid` command is used to identify and label storage devices. The `-o device` option tells it to output the device name only, which in this case will be the block device ID for `/dev/sdb`. This command is a simple way to get the block device ID without having to parse the output of other commands like `lsblk` or `udisks --mountable --device-only /dev/sdb`)
 ```
 
 ## Installation Requirements
